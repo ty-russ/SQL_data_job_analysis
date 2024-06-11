@@ -1,0 +1,202 @@
+[
+  {
+    "skills": "pyspark",
+    "avg_salary": "208172"
+  },
+  {
+    "skills": "bitbucket",
+    "avg_salary": "189155"
+  },
+  {
+    "skills": "couchbase",
+    "avg_salary": "160515"
+  },
+  {
+    "skills": "watson",
+    "avg_salary": "160515"
+  },
+  {
+    "skills": "datarobot",
+    "avg_salary": "155486"
+  },
+  {
+    "skills": "gitlab",
+    "avg_salary": "154500"
+  },
+  {
+    "skills": "swift",
+    "avg_salary": "153750"
+  },
+  {
+    "skills": "jupyter",
+    "avg_salary": "152777"
+  },
+  {
+    "skills": "pandas",
+    "avg_salary": "151821"
+  },
+  {
+    "skills": "elasticsearch",
+    "avg_salary": "145000"
+  },
+  {
+    "skills": "golang",
+    "avg_salary": "145000"
+  },
+  {
+    "skills": "numpy",
+    "avg_salary": "143513"
+  },
+  {
+    "skills": "databricks",
+    "avg_salary": "141907"
+  },
+  {
+    "skills": "linux",
+    "avg_salary": "136508"
+  },
+  {
+    "skills": "kubernetes",
+    "avg_salary": "132500"
+  },
+  {
+    "skills": "atlassian",
+    "avg_salary": "131162"
+  },
+  {
+    "skills": "twilio",
+    "avg_salary": "127000"
+  },
+  {
+    "skills": "airflow",
+    "avg_salary": "126103"
+  },
+  {
+    "skills": "scikit-learn",
+    "avg_salary": "125781"
+  },
+  {
+    "skills": "jenkins",
+    "avg_salary": "125436"
+  },
+  {
+    "skills": "notion",
+    "avg_salary": "125000"
+  },
+  {
+    "skills": "scala",
+    "avg_salary": "124903"
+  },
+  {
+    "skills": "postgresql",
+    "avg_salary": "123879"
+  },
+  {
+    "skills": "gcp",
+    "avg_salary": "122500"
+  },
+  {
+    "skills": "microstrategy",
+    "avg_salary": "121619"
+  },
+  {
+    "skills": "crystal",
+    "avg_salary": "120100"
+  },
+  {
+    "skills": "go",
+    "avg_salary": "115320"
+  },
+  {
+    "skills": "confluence",
+    "avg_salary": "114210"
+  },
+  {
+    "skills": "db2",
+    "avg_salary": "114072"
+  },
+  {
+    "skills": "hadoop",
+    "avg_salary": "113193"
+  },
+  {
+    "skills": "snowflake",
+    "avg_salary": "112948"
+  },
+  {
+    "skills": "git",
+    "avg_salary": "112000"
+  },
+  {
+    "skills": "ibm cloud",
+    "avg_salary": "111500"
+  },
+  {
+    "skills": "azure",
+    "avg_salary": "111225"
+  },
+  {
+    "skills": "bigquery",
+    "avg_salary": "109654"
+  },
+  {
+    "skills": "aws",
+    "avg_salary": "108317"
+  },
+  {
+    "skills": "shell",
+    "avg_salary": "108200"
+  },
+  {
+    "skills": "unix",
+    "avg_salary": "107667"
+  },
+  {
+    "skills": "java",
+    "avg_salary": "106906"
+  },
+  {
+    "skills": "ssis",
+    "avg_salary": "106683"
+  },
+  {
+    "skills": "jira",
+    "avg_salary": "104918"
+  },
+  {
+    "skills": "oracle",
+    "avg_salary": "104534"
+  },
+  {
+    "skills": "dax",
+    "avg_salary": "104500"
+  },
+  {
+    "skills": "looker",
+    "avg_salary": "103795"
+  },
+  {
+    "skills": "sap",
+    "avg_salary": "102920"
+  },
+  {
+    "skills": "nosql",
+    "avg_salary": "101414"
+  },
+  {
+    "skills": "python",
+    "avg_salary": "101397"
+  },
+  {
+    "skills": "r",
+    "avg_salary": "100499"
+  },
+  {
+    "skills": "redshift",
+    "avg_salary": "99936"
+  },
+  {
+    "skills": "qlik",
+    "avg_salary": "99631"
+  }
+]
