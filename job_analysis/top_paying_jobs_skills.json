@@ -1,0 +1,308 @@
+[
+  {
+    "job_id": 209315,
+    "company_name": "ЛАНИТ",
+    "title": "Data Analyst",
+    "title_desc": "Data base administrator",
+    "salary_year_avg": "400000.0",
+    "skills": "oracle",
+    "type": "cloud"
+  },
+  {
+    "job_id": 209315,
+    "company_name": "ЛАНИТ",
+    "title": "Data Analyst",
+    "title_desc": "Data base administrator",
+    "salary_year_avg": "400000.0",
+    "skills": "kafka",
+    "type": "libraries"
+  },
+  {
+    "job_id": 209315,
+    "company_name": "ЛАНИТ",
+    "title": "Data Analyst",
+    "title_desc": "Data base administrator",
+    "salary_year_avg": "400000.0",
+    "skills": "linux",
+    "type": "os"
+  },
+  {
+    "job_id": 209315,
+    "company_name": "ЛАНИТ",
+    "title": "Data Analyst",
+    "title_desc": "Data base administrator",
+    "salary_year_avg": "400000.0",
+    "skills": "git",
+    "type": "other"
+  },
+  {
+    "job_id": 209315,
+    "company_name": "ЛАНИТ",
+    "title": "Data Analyst",
+    "title_desc": "Data base administrator",
+    "salary_year_avg": "400000.0",
+    "skills": "svn",
+    "type": "other"
+  },
+  {
+    "job_id": 1110602,
+    "company_name": "Illuminate Mission Solutions",
+    "title": "Data Analyst",
+    "title_desc": "HC Data Analyst , Senior",
+    "salary_year_avg": "375000.0",
+    "skills": "python",
+    "type": "programming"
+  },
+  {
+    "job_id": 1110602,
+    "company_name": "Illuminate Mission Solutions",
+    "title": "Data Analyst",
+    "title_desc": "HC Data Analyst , Senior",
+    "salary_year_avg": "375000.0",
+    "skills": "r",
+    "type": "programming"
+  },
+  {
+    "job_id": 1110602,
+    "company_name": "Illuminate Mission Solutions",
+    "title": "Data Analyst",
+    "title_desc": "HC Data Analyst , Senior",
+    "salary_year_avg": "375000.0",
+    "skills": "vba",
+    "type": "programming"
+  },
+  {
+    "job_id": 1110602,
+    "company_name": "Illuminate Mission Solutions",
+    "title": "Data Analyst",
+    "title_desc": "HC Data Analyst , Senior",
+    "salary_year_avg": "375000.0",
+    "skills": "excel",
+    "type": "analyst_tools"
+  },
+  {
+    "job_id": 1110602,
+    "company_name": "Illuminate Mission Solutions",
+    "title": "Data Analyst",
+    "title_desc": "HC Data Analyst , Senior",
+    "salary_year_avg": "375000.0",
+    "skills": "tableau",
+    "type": "analyst_tools"
+  },
+  {
+    "job_id": 641501,
+    "company_name": "Citigroup, Inc",
+    "title": "Data Analyst",
+    "title_desc": "Head of Infrastructure Management & Data Analytics - Financial...",
+    "salary_year_avg": "375000.0",
+    "skills": "excel",
+    "type": "analyst_tools"
+  },
+  {
+    "job_id": 641501,
+    "company_name": "Citigroup, Inc",
+    "title": "Data Analyst",
+    "title_desc": "Head of Infrastructure Management & Data Analytics - Financial...",
+    "salary_year_avg": "375000.0",
+    "skills": "word",
+    "type": "analyst_tools"
+  },
+  {
+    "job_id": 229253,
+    "company_name": "Torc Robotics",
+    "title": "Data Analyst",
+    "title_desc": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "skills": "sql",
+    "type": "programming"
+  },
+  {
+    "job_id": 229253,
+    "company_name": "Torc Robotics",
+    "title": "Data Analyst",
+    "title_desc": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "skills": "python",
+    "type": "programming"
+  },
+  {
+    "job_id": 229253,
+    "company_name": "Torc Robotics",
+    "title": "Data Analyst",
+    "title_desc": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "skills": "r",
+    "type": "programming"
+  },
+  {
+    "job_id": 229253,
+    "company_name": "Torc Robotics",
+    "title": "Data Analyst",
+    "title_desc": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "skills": "sas",
+    "type": "programming"
+  },
+  {
+    "job_id": 229253,
+    "company_name": "Torc Robotics",
+    "title": "Data Analyst",
+    "title_desc": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "skills": "matlab",
+    "type": "programming"
+  },
+  {
+    "job_id": 229253,
+    "company_name": "Torc Robotics",
+    "title": "Data Analyst",
+    "title_desc": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "skills": "spark",
+    "type": "libraries"
+  },
+  {
+    "job_id": 229253,
+    "company_name": "Torc Robotics",
+    "title": "Data Analyst",
+    "title_desc": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "skills": "airflow",
+    "type": "libraries"
+  },
+  {
+    "job_id": 229253,
+    "company_name": "Torc Robotics",
+    "title": "Data Analyst",
+    "title_desc": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "skills": "excel",
+    "type": "analyst_tools"
+  },
+  {
+    "job_id": 229253,
+    "company_name": "Torc Robotics",
+    "title": "Data Analyst",
+    "title_desc": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "skills": "tableau",
+    "type": "analyst_tools"
+  },
+  {
+    "job_id": 229253,
+    "company_name": "Torc Robotics",
+    "title": "Data Analyst",
+    "title_desc": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "skills": "power bi",
+    "type": "analyst_tools"
+  },
+  {
+    "job_id": 229253,
+    "company_name": "Torc Robotics",
+    "title": "Data Analyst",
+    "title_desc": "Director of Safety Data Analysis",
+    "salary_year_avg": "375000.0",
+    "skills": "sas",
+    "type": "analyst_tools"
+  },
+  {
+    "job_id": 101757,
+    "company_name": "Care.com",
+    "title": "Data Analyst",
+    "title_desc": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "skills": "sql",
+    "type": "programming"
+  },
+  {
+    "job_id": 101757,
+    "company_name": "Care.com",
+    "title": "Data Analyst",
+    "title_desc": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "skills": "python",
+    "type": "programming"
+  },
+  {
+    "job_id": 101757,
+    "company_name": "Care.com",
+    "title": "Data Analyst",
+    "title_desc": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "skills": "r",
+    "type": "programming"
+  },
+  {
+    "job_id": 101757,
+    "company_name": "Care.com",
+    "title": "Data Analyst",
+    "title_desc": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "skills": "bigquery",
+    "type": "cloud"
+  },
+  {
+    "job_id": 101757,
+    "company_name": "Care.com",
+    "title": "Data Analyst",
+    "title_desc": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "skills": "snowflake",
+    "type": "cloud"
+  },
+  {
+    "job_id": 101757,
+    "company_name": "Care.com",
+    "title": "Data Analyst",
+    "title_desc": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "skills": "tableau",
+    "type": "analyst_tools"
+  },
+  {
+    "job_id": 101757,
+    "company_name": "Care.com",
+    "title": "Data Analyst",
+    "title_desc": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "skills": "power bi",
+    "type": "analyst_tools"
+  },
+  {
+    "job_id": 101757,
+    "company_name": "Care.com",
+    "title": "Data Analyst",
+    "title_desc": "Head of Data Analytics",
+    "salary_year_avg": "350000.0",
+    "skills": "looker",
+    "type": "analyst_tools"
+  },
+  {
+    "job_id": 1059665,
+    "company_name": "Anthropic",
+    "title": "Data Analyst",
+    "title_desc": "Data Analyst",
+    "salary_year_avg": "350000.0",
+    "skills": "sql",
+    "type": "programming"
+  },
+  {
+    "job_id": 1059665,
+    "company_name": "Anthropic",
+    "title": "Data Analyst",
+    "title_desc": "Data Analyst",
+    "salary_year_avg": "350000.0",
+    "skills": "python",
+    "type": "programming"
+  },
+  {
+    "job_id": 894135,
+    "company_name": "OpenAI",
+    "title": "Data Analyst",
+    "title_desc": "Research Scientist",
+    "salary_year_avg": "285000.0",
+    "skills": "github",
+    "type": "other"
+  }
+]

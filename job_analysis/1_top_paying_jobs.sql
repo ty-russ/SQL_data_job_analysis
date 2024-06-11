@@ -1,16 +1,24 @@
--- Question: What are the top paying data analyst jobs?
-/*
+
+/* Question: What are the top paying data analyst jobs?
   - Identify top 5 paying job titles in Data field
   - Identify top 10 paying job posting.
   - Identify the top 10 highest-paying Data Analyst roles that are available remotely, on-site, hybrid.
   - Identify the top 10 highest-paying Data Scientist roles that are available remotely, on-site, hybrid.
   - Focus on job postings within a salary range
   - Why are they the highest? Highlight the top-paying opportunities for Data Analysts, offering insights into employee qualifications 
-
 */
 
--- What are the top 5 paying job titles in the Data industry?
 
+
+-- What are the top 5 paying job titles in the Data industry?
+SELECT 
+    job_title_short AS title,
+    AVG(salary_year_avg) AS average_salary
+FROM job_postings_fact
+WHERE salary_year_avg IS NOT NULL
+GROUP BY job_title_short
+ORDER BY average_salary DESC
+LIMIT 10;
 
 -- What are the top 10 paying jobs postings?
 SELECT 
